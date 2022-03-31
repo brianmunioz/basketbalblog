@@ -1,7 +1,7 @@
 <?php
-define('RUTA', 'http://localhost/blog');//se puede usar como dirección para enlace
+define('RUTA', 'http://localhost/blog');//usar como dirección para enlace
 $bd_config = array(
-    'basedatos' => 'curso_blog',
+    'basedatos' => 'blog',
     'user' => 'root',
     'pass' => ''
 );
